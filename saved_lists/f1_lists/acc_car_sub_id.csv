@@ -1,0 +1,152 @@
+F1 Score,Feature Name,Frequency Count
+0.6166666666666667,eyes_narrow,10.0
+0.5666666666666667,cheeks_chubby/full,9.0
+0.6666666666666666,cheekbones_high,8.0
+0.6333333333333333,eyes_light-colored,8.0
+0.6916666666666667,eyes_deep-set,7.0
+0.775,nose_wide nostrils,7.0
+0.7666666666666667,eyebrows_arched (v-shaped),6.0
+0.7333333333333333,lips_thin upper,6.0
+0.75,nose_pointy,6.0
+0.7916666666666666,chin_forward,5.0
+0.7833333333333333,eyelids_puffy,5.0
+0.825,forehead_big,5.0
+0.8333333333333334,chin_double chin,4.0
+0.8166666666666667,chin_square,4.0
+0.825,chin_weak jawline,4.0
+0.8333333333333334,ears_low,4.0
+0.8416666666666667,eyebrows_light,4.0
+0.8,eyes_bags under eyes,4.0
+0.8333333333333334,eyes_wide-set,4.0
+0.8083333333333333,facial hair_mustache,4.0
+0.8333333333333334,forehead_wide,4.0
+0.825,hair_receding hairline,4.0
+0.8333333333333334,lips_downturned,4.0
+0.8166666666666667,nose_upturned,4.0
+0.7916666666666666,nose_wide,4.0
+0.875,cheekbones_sharp,3.0
+0.775,ears_stick out,3.0
+0.875,eyebrows_short,3.0
+0.85,eyes_narrow-set,3.0
+0.7666666666666667,eyes_slanted down,3.0
+0.8666666666666667,eyes_slanted up,3.0
+0.875,forehead_small,3.0
+0.875,lips_thick lower,3.0
+0.875,nose_hooked,3.0
+0.875,nose_thin bridge,3.0
+0.9166666666666666,cheeks_dimples,2.0
+0.925,chin_cleft,2.0
+0.9083333333333333,ears_big,2.0
+0.9166666666666666,eyelids_hooded,2.0
+0.9083333333333333,eyes_almond,2.0
+0.9166666666666666,eyes_glasses,2.0
+0.8833333333333333,eyes_long eyelashes,2.0
+0.875,eyes_wide,2.0
+0.9166666666666666,eyes_wide-x,2.0
+0.9166666666666666,facial hair_beard,2.0
+0.9166666666666666,hair_bangs,2.0
+0.9166666666666666,hair_widows peak,2.0
+0.9166666666666666,head_long,2.0
+0.8916666666666667,lips_pouty/full,2.0
+0.9166666666666666,lips_thin,2.0
+0.875,mouth_big/wide,2.0
+0.9166666666666666,mouth_small,2.0
+0.9166666666666666,nose_cleft,2.0
+0.9166666666666666,nose_well-defined tip,2.0
+0.9166666666666666,nose_wide tip,2.0
+0.9166666666666666,skin_mole,2.0
+0.9166666666666666,teeth_buck,2.0
+0.9166666666666666,teeth_straight,2.0
+0.9166666666666666,teeth_white,2.0
+0.9583333333333334,cheeks_thin/hollow,1.0
+0.9583333333333334,chin_strong jawline,1.0
+0.9583333333333334,ears_flat,1.0
+0.9583333333333334,ears_pierced,1.0
+0.9583333333333334,ears_pointy,1.0
+0.85,eyebrows_bushy,1.0
+0.9583333333333334,eyebrows_long,1.0
+0.9583333333333334,eyebrows_scar,1.0
+0.9583333333333334,eyebrows_thick,1.0
+0.9583333333333334,eyebrows_thin,1.0
+0.9583333333333334,eyes_small,1.0
+0.9583333333333334,eyes_stick out,1.0
+0.95,facial hair_goatee,1.0
+0.9583333333333334,facial hair_sideburns,1.0
+0.9583333333333334,facial hair_soul patch,1.0
+0.9583333333333334,facial hair_stubble,1.0
+0.9583333333333334,facial hair_trimmed,1.0
+0.9583333333333334,forehead_wrinkled,1.0
+0.9583333333333334,hair_blond,1.0
+0.9583333333333334,hair_short,1.0
+0.9583333333333334,hair_white,1.0
+0.9583333333333334,head_big,1.0
+0.9583333333333334,head_small,1.0
+0.9583333333333334,head_square,1.0
+0.9583333333333334,lips_medial cleft,1.0
+0.9583333333333334,lips_red lipstick,1.0
+0.9583333333333334,mouth_crooked,1.0
+0.9583333333333334,neck_Adam's apple,1.0
+0.9583333333333334,nose_bulbous,1.0
+0.9583333333333334,nose_dorsal hump,1.0
+0.9583333333333334,nose_long,1.0
+0.9583333333333334,nose_rounded tip,1.0
+0.9416666666666667,nose_v-shaped,1.0
+0.9583333333333334,skin_rough,1.0
+0.9583333333333334,teeth_big,1.0
+0.9583333333333334,teeth_gap,1.0
+0.9583333333333334,teeth_small,1.0
+1.0,chin_crooked,0.0
+1.0,chin_pointed,0.0
+1.0,chin_rounded,0.0
+1.0,chin_scar,0.0
+1.0,ears_high,0.0
+1.0,ears_small,0.0
+1.0,eyebrows_curved down,0.0
+1.0,eyebrows_far apart,0.0
+1.0,eyebrows_flat,0.0
+1.0,eyebrows_furrowed,0.0
+1.0,eyebrows_slanted down,0.0
+1.0,eyebrows_unibrow,0.0
+1.0,eyelids_drooping,0.0
+1.0,eyelids_receded,0.0
+1.0,eyes_crows feet,0.0
+1.0,eyes_lazy eye,0.0
+1.0,eyes_round,0.0
+1.0,facial hair_handlebar,0.0
+1.0,facial hair_messy,0.0
+1.0,facial hair_thick,0.0
+1.0,facial hair_thin,0.0
+1.0,facial hair_white,0.0
+1.0,forehead_narrow,0.0
+1.0,forehead_scar,0.0
+1.0,hair_bald,0.0
+1.0,hair_big,0.0
+1.0,hair_black,0.0
+1.0,hair_curly,0.0
+1.0,hair_dreads,0.0
+1.0,hair_hat,0.0
+1.0,hair_long,0.0
+1.0,hair_red,0.0
+1.0,hair_slicked back,0.0
+1.0,hair_white streaks,0.0
+1.0,head_round,0.0
+1.0,head_wide,0.0
+1.0,lips_large,0.0
+1.0,lips_upturned,0.0
+1.0,neck_lines,0.0
+1.0,neck_tattoos,0.0
+1.0,neck_thick,0.0
+1.0,nose_button,0.0
+1.0,nose_crooked,0.0
+1.0,nose_flared nostrils,0.0
+1.0,nose_flat,0.0
+1.0,nose_short,0.0
+1.0,nose_small,0.0
+1.0,nose_small nostrils,0.0
+1.0,nose_thin,0.0
+1.0,nose_wide bridge,0.0
+1.0,skin_freckles,0.0
+1.0,skin_pale,0.0
+1.0,skin_smooth,0.0
+1.0,teeth_crooked,0.0
+1.0,teeth_overbite,0.0

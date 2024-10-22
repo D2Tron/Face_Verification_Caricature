@@ -1,0 +1,229 @@
+aamir_khan || nose | ears | eyebrows | facial hair | eyes | eyelids || well-defined tip | stick out, pierced | arched (v-shaped) | mustache, goatee | bags under eyes | puffy |
+adam_driver || nose | mouth | eyes | ears | facial hair | head | chin || dorsal hump, long | big/wide | slanted down | stick out, low | stubble, goatee | long | weak jawline, crooked |
+adam_sandler || head | nose | ears | teeth || long | dorsal hump | stick out, big | big |
+adele || chin | head | nose | cheekbones | cheeks | eyes || cleft, square | wide | upturned | high | chubby/full | long eyelashes |
+aishwarya_rai || eyes | nose | head | lips | eyebrows || wide, long eyelashes | hooked, thin | small | pouty/full | arched (v-shaped) |
+ajit_pai || lips | eyebrows | cheeks | nose | teeth | chin || pouty/full | bushy | chubby/full | wide, wide bridge | big | weak jawline |
+alec_baldwin || lips | eyes | nose | eyelids | forehead || thin upper | light-colored, bags under eyes | wide tip, v-shaped | puffy | wide |
+alexandria_ocasio-cortez || nose | cheeks | teeth | eyebrows | cheekbones | lips || wide nostrils | dimples | big, buck | arched (v-shaped), long, thick | high | red lipstick |
+alfred_hitchcock || head | hair | chin | cheeks | lips | eyes || big | receding hairline | weak jawline, double chin | chubby/full | pouty/full, downturned | bags under eyes |
+amy_poehler || nose | chin | mouth | cheeks | cheekbones || v-shaped | pointed | big/wide | chubby/full | high |
+anderson_cooper || head | eyes | nose | hair | ears | forehead | lips || long | narrow, slanted down, light-colored | v-shaped | white | stick out, pointy | big | thin |
+andy_samberg || mouth | nose | chin | ears | eyes || big/wide | hooked | cleft, square | small, stick out | deep-set |
+angela_merkel || chin | lips | eyes | cheeks | eyebrows | nose || weak jawline | thin | bags under eyes | chubby/full | short | rounded tip |
+angelina_jolie || cheekbones | lips | forehead | chin | eyebrows | eyes || sharp, high | pouty/full | big | strong jawline, square | arched (v-shaped) | wide-set, almond |
+anne_hathaway || mouth | teeth | lips | nose | eyes || big/wide | big | pouty/full | upturned, thin | wide |
+anthony_davis || eyebrows | lips | mouth | forehead | eyes | facial hair | ears | nose || unibrow | pouty/full | big/wide | small | round, wide, narrow-set | beard, mustache, trimmed | stick out | wide nostrils |
+ariana_grande || chin | lips | cheeks | eyes | head | nose | skin || pointed | pouty/full | dimples | long eyelashes, almond, wide | small | button | smooth |
+aubrey_plaza || nose | lips | eyes | teeth | cheeks | cheekbones || rounded tip | thin upper | wide, stick out | big, gap | chubby/full | high |
+ava_gardner || chin | cheekbones | nose | eyebrows | mouth | eyes || cleft | high | pointy, v-shaped | arched (v-shaped), long | big/wide | almond |
+awkwafina || cheeks | eyes | forehead | chin | teeth | lips | nose | hair || chubby/full | small, slanted up | small | square | big | downturned | upturned | black |
+aziz_ansari || cheeks | lips | nose | head | eyes | eyelids | ears | facial hair | hair || chubby/full | thin upper, thick lower | wide nostrils | small | long eyelashes, wide | puffy | big, low | stubble | receding hairline, widows peak |
+barack_obama || eyes | nose | ears | mouth | lips | forehead | eyebrows | teeth || deep-set | wide nostrils | stick out | big/wide | thin upper | big | bushy | big |
+ben_affleck || facial hair | chin | eyelids | forehead | eyes | nose | head | lips | skin || beard | cleft | hooded | big | deep-set, narrow | thin bridge, pointy | long | thin upper | mole |
+benedict_cumberbatch || chin | eyes | cheekbones | forehead | lips | facial hair | eyebrows || weak jawline | wide-set, deep-set, light-colored, slanted up, narrow | sharp | big, wide | medial cleft, thin upper | stubble | light |
+benicio_del_toro || nose | eyes | cheekbones | eyebrows | forehead | lips || rounded tip | bags under eyes, deep-set, narrow | sharp, high | bushy | wrinkled | large |
+bernie_sanders || nose | hair | ears | eyes | lips || bulbous | receding hairline | big, stick out | bags under eyes, narrow, glasses | thin |
+betty_white || nose | eyes | cheekbones | cheeks | eyebrows | hair || hooked, wide nostrils | wide-set | high | chubby/full, dimples | light | white |
+beyonce || lips | eyebrows | cheekbones | nose | mouth | eyes | skin || pouty/full | arched (v-shaped) | high | button | big/wide | slanted up | smooth |
+bill_clinton || mouth | nose | eyes | lips | eyelids || small | cleft, bulbous | slanted down, narrow, bags under eyes | thin | puffy |
+billie_eilish || eyes | forehead | nose | skin | lips | chin | eyebrows || wide, stick out, light-colored | big | button | pale | pouty/full | forward | bushy, long, flat |
+bob_marley || eyebrows | chin | cheekbones | hair | nose | facial hair || bushy | square | sharp | long, dreads | pointy | goatee |
+brad_pitt || eyes | cheeks | facial hair | chin | forehead || deep-set, narrow, slanted down, narrow-set, bags under eyes, crows feet | chubby/full | goatee | strong jawline | wrinkled |
+britney_spears || nose | eyes | chin | cheeks || thin, well-defined tip | wide, wide-set | forward | chubby/full |
+bruce_lee || nose | eyebrows | eyes | mouth | cheekbones || wide | bushy | almond | small | high |
+bruno_mars || head | cheekbones | cheeks | nose | eyes | hair || small | high | dimples | hooked, small | bags under eyes | curly, hat |
+cameron_diaz || cheekbones | mouth | eyebrows | nose | lips | eyes || sharp | big/wide | thin | well-defined tip | thin upper | slanted down, light-colored |
+carrie_fisher || nose | cheekbones | eyebrows | lips | eyes || wide nostrils | high | thin | thin upper | wide |
+che_guevara || eyebrows | facial hair | hair | eyes | lips | nose || bushy | beard, mustache, messy | widows peak | deep-set, slanted down, wide | thin upper | wide nostrils |
+cher || cheekbones | mouth | lips | head | hair | nose || sharp, high | big/wide | pouty/full | long | long, curly | well-defined tip |
+chow_yun || head | lips | eyelids | cheeks | eyebrows | eyes || small | thin upper | hooded | chubby/full | thick, short | narrow |
+chris_hemsworth || eyes | eyebrows | hair | facial hair | nose | ears || narrow, slanted down, light-colored, deep-set | bushy | widows peak | beard, mustache, trimmed | pointy, upturned, cleft | stick out, pointy |
+chris_pratt || nose | forehead | eyes | cheekbones || cleft, upturned | big, wrinkled | slanted down, deep-set, wide-set, narrow | high |
+chris_rock || mouth | nose | ears | cheeks | lips | eyes || big/wide | wide, wide nostrils, upturned | pierced | chubby/full | pouty/full | almond |
+chris_tucker || nose | facial hair | ears | cheeks | eyes | eyebrows || wide nostrils, hooked | goatee, trimmed | flat | chubby/full | deep-set | arched (v-shaped) |
+christina_aguilera || eyes | lips | cheeks | nose | hair | chin | cheekbones || light-colored, wide | pouty/full | chubby/full | wide | white | pointed | high |
+chuck_norris || cheeks | nose | hair | facial hair | ears | eyes | eyebrows || chubby/full | wide, cleft, wide nostrils | red | beard, mustache | big | narrow-set, narrow | bushy | 
+condoleezza_rice || teeth | eyebrows | nose | forehead | mouth || gap, buck | thin, arched (v-shaped) | wide nostrils, wide, upturned | big | big/wide |
+conor_mcgregor || nose | facial hair | ears | eyebrows | eyes || wide, wide nostrils | beard, mustache | stick out | bushy | deep-set |
+cristiano_ronaldo || cheekbones | ears | skin | chin | neck | head | eyes | eyebrows || sharp, high | small, stick out | mole | strong jawline | thick | small | deep-set, long eyelashes | arched (v-shaped) |
+cuba_gooding_jr || cheeks | nose | eyes | mouth | forehead || chubby/full | wide nostrils, flat | bags under eyes | big/wide, crooked | wrinkled |
+daisy_ridley || nose | cheekbones | eyebrows | cheeks | eyes | teeth | chin || pointy | high | arched (v-shaped), long | dimples | slanted up | big | square |
+dalai_lama || nose | cheekbones | hair | eyebrows | eyes | lips || wide, wide nostrils | sharp | receding hairline | bushy, short | narrow, bags under eyes | thin upper, medial cleft |
+danny_trejo || facial hair | eyes | skin | nose | head | eyebrows | chin || handlebar, mustache | bags under eyes, deep-set | rough | wide, wide nostrils | big | light | weak jawline |
+dave_chappelle || hair | mouth | head | eyes | teeth | ears | nose | facial hair || bald | big/wide | small | wide, slanted up | buck, gap | big | wide, wide nostrils | goatee |
+david_hasselhoff || eyes | head | nose | lips || slanted up, light-colored, small, deep-set | square | well-defined tip, short, v-shaped | thin upper, medial cleft |
+david_tennant || nose | ears | lips | hair | eyes | neck | facial hair | forehead || pointy, hooked | low, stick out | thin upper | widows peak | almond | Adam's apple | beard, mustache, trimmed | big |
+deng_xiaoping || nose | hair | ears | eyebrows | eyes | chin | lips || wide | receding hairline | big, low | short, light | narrow, slanted down, deep-set | weak jawline | thin |
+denzel_washington || nose | eyebrows | cheeks | teeth || wide, wide nostrils | arched (v-shaped), scar | chubby/full | straight, white |
+diego_maradona || eyebrows | eyes | forehead | ears | lips || bushy, flat | narrow, deep-set, slanted down | small | pierced, stick out | pouty/full |
+dr._phil || hair | eyes | facial hair | ears | teeth | forehead | cheeks || receding hairline | narrow, slanted up, light-colored | mustache | flat, pointy | straight, white | wide | chubby/full |
+duterte || nose | lips | ears | eyes | cheeks | eyebrows || wide, wide nostrils, short | thin upper, medial cleft | big | narrow, bags under eyes | chubby/full | light |
+dwayne_johnson || hair | nose | facial hair | forehead | eyes | chin | eyelids || bald | wide nostrils | stubble | wrinkled | wide-x | strong jawline | hooded |
+eddie_murphy || mouth | facial hair | nose | teeth | eyes | ears | lips || big/wide | mustache, soul patch | wide nostrils | gap | narrow, wide-set | pierced | thick lower |
+elizabeth_warren || nose | chin | ears | eyebrows | hair | lips | eyes || wide | weak jawline, rounded | big | arched (v-shaped) | short | downturned | slanted down |
+ellen_degeneres || nose | eyes | mouth | ears | lips | hair | eyebrows || hooked, long, pointy | narrow-set, wide, light-colored | big/wide | big, stick out | thin upper | short | far apart |
+ellen_page || forehead | nose | mouth | chin | cheeks | eyes || big | small | big/wide | pointed | chubby/full | almond |
+emilia_clarke || eyebrows | mouth | chin | eyes | cheekbones | cheeks | lips || thick | big/wide | rounded | almond, long eyelashes | high | chubby/full | pouty/full |
+eminem || nose | ears | mouth | eyes | lips | eyebrows || cleft, rounded tip | stick out | small | narrow | pouty/full | arched (v-shaped) |
+emma_watson || eyebrows | ears | cheekbones | lips | skin | nose | chin || arched (v-shaped), long | stick out | high | thin upper | freckles | well-defined tip | strong jawline |
+eva_mendes || nose | eyebrows | skin | cheekbones | lips | mouth | teeth | eyes || cleft, upturned | arched (v-shaped), long | mole, smooth | high | pouty/full | big/wide | big | long eyelashes |
+fergie || eyes | nose | hair | lips | forehead | eyebrows | chin | cheeks | head || wide, light-colored | thin bridge, pointy | blond | thick lower | small | arched (v-shaped) | cleft, forward | chubby/full | square |
+fidel_castro || eyebrows | facial hair | nose | lips | cheeks | head || bushy | mustache, beard, messy | bulbous, wide bridge, hooked | thick lower | chubby/full | big |
+gal_gadot || eyes | hair | forehead | nose | mouth | eyebrows | lips || almond | black, long | narrow, big | thin bridge, small nostrils | big/wide | thick, arched (v-shaped) | medial cleft |
+gandhi || hair | ears | head | nose | facial hair | eyes || receding hairline | big, stick out | small | wide, hooked | mustache | glasses |
+george_clooney || eyes | lips | eyebrows | chin || deep-set, slanted down, bags under eyes | thin upper | bushy, arched (v-shaped) | strong jawline |
+george_lopez || nose | eyes | cheeks | eyebrows | head | lips || wide nostrils, wide | narrow, slanted down, wide-set, lazy eye | chubby/full | bushy | wide | thin upper |
+george_rr_martin || nose | facial hair | cheeks | eyes | hair | lips || wide, v-shaped, flat, wide nostrils | mustache, beard, messy | chubby/full | narrow, glasses | hat | thin upper, downturned |
+george_takei || nose | mouth | forehead | cheekbones | lips | eyebrows || wide nostrils | big/wide | big | high, sharp | thin upper | short, bushy |
+george_w._bush || nose | eyebrows | lips | ears || wide nostrils, flared nostrils, v-shaped | bushy | thin | big, stick out, pointy |
+halle_berry || cheekbones | forehead | eyebrows | chin | ears | eyes || high, sharp | big | arched (v-shaped) | pointed | stick out | slanted up |
+harrison_ford || nose | eyes | ears | skin | lips | forehead | chin || wide nostrils, crooked, well-defined tip | narrow, deep-set | big, pierced | mole | thin upper | wrinkled | square |
+helena_bonham_carter || nose | hair | eyes | cheeks | cheekbones | lips | chin | head || v-shaped, thin bridge, flared nostrils | curly | wide | thin/hollow | sharp, high | pouty/full | strong jawline | small |
+hillary_clinton || cheekbones | eyes | chin | mouth | cheeks || high | bags under eyes, almond | double chin | small | chubby/full |
+hulk_hogan || eyes | facial hair | nose | eyelids | hair | chin | skin || stick out, slanted down, light-colored, wide | mustache, white | bulbous, wide | puffy | hat, white | cleft, forward | rough |
+ice_cube || cheeks | nose | eyebrows | facial hair | eyes || chubby/full | flat, wide nostrils, short, flared nostrils | arched (v-shaped) | goatee | wide-set |
+jackie_chan || nose | eyes | lips | chin | eyebrows || wide, v-shaped | narrow, crows feet | thin upper | rounded | short |
+james_dean || lips | forehead | eyebrows | chin | eyes | ears || thick lower | wide | bushy, flat | strong jawline | narrow-set | stick out |
+janet_jackson || cheekbones | eyebrows | skin | mouth | eyes | nose || sharp | arched (v-shaped) | mole | big/wide | slanted up, long eyelashes | upturned, pointy, thin bridge |
+jason_momoa || eyebrows | facial hair | hair | eyes | cheeks | head || scar, arched (v-shaped), bushy | mustache, beard | curly, long | narrow, slanted down, deep-set | chubby/full | big |
+jay_z || nose | mouth | lips | head | cheeks | eyelids || flat, wide nostrils, wide | big/wide | pouty/full | long | chubby/full | puffy |
+jennifer_aniston || chin | nose | eyebrows | cheekbones | forehead | eyes | lips || square | rounded tip, upturned | arched (v-shaped) | high | narrow | slanted up, narrow-set | thin upper |
+jennifer_garner || forehead | head | cheeks | mouth | teeth | eyes | cheekbones || big | long | dimples | big/wide | big | slanted up | sharp |
+jennifer_lopez || chin | cheeks | eyebrows | eyes | lips | nose | cheekbones || pointed, strong jawline | thin/hollow | arched (v-shaped) | deep-set, narrow, slanted up, long eyelashes | pouty/full | dorsal hump | high |
+jessica_alba || cheekbones | skin | eyebrows | eyes | lips | eyelids || high | mole, smooth | long, thick, flat | almond, wide-set | pouty/full | receded |
+jim_parsons || chin | forehead | eyebrows | lips | hair | eyes | nose | cheeks || weak jawline, double chin | big | bushy, long | thin upper | receding hairline | slanted down, light-colored | dorsal hump | chubby/full |
+jimi_hendrix || nose | lips | cheekbones | hair | facial hair || wide bridge, flat, wide nostrils | pouty/full | sharp, high | curly | mustache |
+john_f._kennedy || eyes | forehead | eyebrows | nose | lips | eyelids | teeth | mouth || slanted down, lazy eye, narrow-set | small | light | cleft | thin upper | puffy | big | big/wide |
+john_goodman || nose | eyebrows | cheeks | lips | chin | eyes | forehead | head || v-shaped, wide tip | bushy | chubby/full | thin | rounded | narrow, bags under eyes, deep-set, wide-set | big | big |
+john_krasinski || nose | cheeks | ears | mouth | eyebrows | chin | head || wide, hooked | chubby/full | stick out, high | big/wide | bushy | weak jawline | long |
+john_mcenroe || lips | hair | chin | nose | hair || thin | curly | weak jawline | v-shaped | receding hairline |
+john_wayne || lips | nose | eyes | forehead | eyelids || thin upper | wide | narrow | wrinkled, wide, big | hooded |
+johnny_depp || forehead | nose | facial hair | cheekbones | eyes | eyebrows | ears || big, wide | pointy | goatee | high | deep-set | short | pierced |
+johnny_galecki || cheeks | nose | hair | eyes | eyebrows | forehead || chubby/full | hooked | curly, receding hairline | narrow, bags under eyes | long, bushy | big |
+julia_roberts || eyes | mouth | nose | teeth | cheekbones | cheeks || wide, almond | big/wide | pointy | big | high | dimples |
+julian_assange || nose | hair | eyes | eyebrows | facial hair | mouth || wide | white | narrow, slanted down, wide-set, deep-set | light | beard, mustache | small |
+julianne_moore || hair | chin | cheekbones | eyebrows | eyes || red | strong jawline | sharp, high | thin | almond |
+justin_timberlake || eyebrows | eyes | nose | facial hair || flat, thick | wide, bags under eyes | cleft, hooked | beard, mustache, trimmed |
+justin_trudeau || nose | lips | eyes | chin | cheeks | cheekbones | head || long, dorsal hump | thin upper | slanted down, light-colored | square | chubby/full | high | long |
+kaley_cuoco || cheekbones | cheeks | eyebrows | nose | mouth | eyelids | eyes | teeth | chin || high | chubby/full | arched (v-shaped) | well-defined tip, upturned | crooked | puffy | almond, light-colored | buck | square |
+kanye_west || lips | ears | facial hair | cheeks | eyes | eyebrows | forehead | nose || pouty/full | small | goatee, trimmed | chubby/full | wide | bushy | wrinkled | wide bridge |
+katy_perry || eyebrows | cheekbones | eyes | chin | nose || arched (v-shaped), thick | high | wide, almond, light-colored | forward | pointy |
+keanu_reeves || facial hair | forehead | hair | eyes | head | cheekbones | lips | eyelids || goatee, sideburns | big, wide | widows peak, long, black | narrow, deep-set, wide-x | long | high | thin upper | hooded |
+keira_knightley || cheekbones | chin | eyebrows | mouth | forehead | teeth | nose | eyes | ears || high, sharp | square, strong jawline | arched (v-shaped), thick | small | wide | crooked | thin | wide-x | stick out |
+kim_jong_un || eyebrows | chin | nose | cheeks | mouth | eyelids | hair | teeth | lips | head | ears || short | double chin | wide, wide nostrils, upturned | chubby/full | small | puffy, receded | receding hairline, slicked back | buck | pouty/full, downturned | round, big | stick out |
+kirsten_dunst || skin | cheeks | nose | eyebrows | lips | chin | teeth | head | eyes || pale | dimples, chubby/full | bulbous, upturned | light | thin | forward | small | square | light-colored, narrow |
+kit_harington || hair | facial hair | eyes | eyebrows | lips | nose || curly, widows peak, long, black | mustache, beard | deep-set, narrow, wide-set | bushy | downturned | hooked |
+kobe_bryant || nose | ears | eyebrows | hair | eyes | cheekbones || pointy, wide nostrils, v-shaped | small, stick out | short | bald | deep-set | high |
+kristen_bell || nose | cheekbones | chin | eyes | cheeks | eyebrows || well-defined tip | high | strong jawline, square, cleft | narrow-set, deep-set, long eyelashes, almond | chubby/full | long, light, arched (v-shaped) |
+kristen_stewart || chin | ears | nose | cheekbones | mouth | lips | eyes | chin || forward | stick out | upturned | high | small | thin upper | wide, wide-set, deep-set | strong jawline |
+lady_gaga || cheekbones | nose | hair | chin | teeth | eyes | mouth || high | cleft, wide bridge | white | pointed | buck | slanted up, long eyelashes | big/wide |
+lebron_james || facial hair | nose | cheeks | forehead | ears | mouth | eyes | hair || mustache, beard | wide, flat, wide nostrils | chubby/full | big, wrinkled | stick out | big/wide | deep-set | receding hairline |
+lena_headey || chin | cheekbones | nose | eyes | eyebrows | lips || square, cleft | high | upturned | light-colored, almond | arched (v-shaped) | thick lower, downturned |
+leonardo_dicaprio || eyes | facial hair | forehead | eyebrows | cheeks | eyelids | nose || bags under eyes, light-colored, slanted down, deep-set | goatee | big, wide | bushy, long | chubby/full | puffy | pointy, wide nostrils |
+leslie_nielsen || eyebrows | lips | eyes | nose | head | chin | hair || bushy | thin | wide, deep-set | hooked, long, wide, dorsal hump | long, big | rounded | white |
+lionel_messi || nose | facial hair | ears | eyes | mouth | cheekbones | teeth || pointy, wide nostrils | mustache, beard | stick out, big | deep-set, narrow-set, slanted down | small | high | overbite |
+lucy_liu || eyes | chin | mouth | cheekbones | nose | lips | skin || slanted up, long eyelashes, wide-set | pointed, strong jawline | big/wide | sharp | long | upturned | freckles |
+luis_suarez || facial hair | eyebrows | ears | nose | teeth | eyes || mustache, beard, trimmed | bushy | stick out | wide bridge, upturned, wide | big, overbite | slanted down, deep-set |
+madonna || nose | chin | cheekbones | eyes | teeth | mouth | skin | eyes | hair | eyebrows | cheeks || pointy | square | sharp, high | long eyelashes | gap | big/wide | pale | light-colored | blond, curly | long | chubby/full |
+maisie_williams || eyebrows | forehead | nose | eyes | head | cheeks | lips || bushy | wide | button, wide tip | wide, wide-set | small | chubby/full | thin upper |
+mao || skin | hair | nose | eyes | lips | eyelids | chin | eyebrows | ears || mole | receding hairline | wide | narrow | thick lower, downturned | puffy | double chin, weak jawline | short, light | big, low |
+marc_anthony || forehead | mouth | facial hair | chin | eyes | nose | hair | eyebrows | eyelids | lips || big, wide | big/wide | goatee | cleft, square | wide-set, deep-set | wide tip | receding hairline | light | puffy | thin upper |
+mariah_carey || chin | skin | lips | nose | cheeks || pointed | mole | pouty/full | short | chubby/full |
+marilyn_monroe || nose | eyebrows | hair | skin | cheekbones | chin | eyes || rounded tip, upturned | arched (v-shaped), long | curly, white, short | mole | high | cleft | wide, wide-set, slanted down |
+mark_hamill || nose | chin | mouth | lips | eyes | forehead | eyebrows | cheeks || wide nostrils | cleft | big/wide | thin upper | bags under eyes | big | bushy, light, long | chubby/full |
+mark_zuckerberg || forehead | eyebrows | ears | chin | head | mouth | eyes | nose | skin || wide, big | light | stick out, big | weak jawline | long | small | deep-set, slanted down | long, dorsal hump | freckles |
+matt_damon || nose | forehead | ears | chin | eyes | cheeks | teeth | mouth || pointy, upturned | big | big, low, stick out | rounded | slanted down, light-colored, deep-set | chubby/full | big | big/wide |
+matt_smith || nose | lips | eyes | forehead | eyebrows | ears | head | cheekbones || long, wide bridge, v-shaped | thin | deep-set | big, wide, wrinkled | light, short | stick out, big | long | high |
+megan_fox || chin | cheekbones | eyes | nose | lips || square | high | light-colored, slanted up, long eyelashes, wide-set | pointy, cleft | pouty/full |
+meghan_markle || chin | cheekbones | skin | nose | cheeks | eyes | mouth || pointed | high | freckles | rounded tip | chubby/full | long eyelashes, deep-set | big/wide |
+melania_trump || nose | eyes | cheekbones | chin || pointy | slanted up, narrow, light-colored, wide-x | high | strong jawline |
+melissa_mccarthy || cheeks | nose | chin | lips | eyes | eyebrows | teeth | head || dimples, chubby/full | wide nostrils, wide tip, upturned | double chin, rounded | thin upper | wide, almond, deep-set | long, arched (v-shaped) | straight, white | big |
+meryl_streep || cheekbones | nose | forehead | eyebrows | cheeks | mouth | eyes || sharp | pointy, hooked, dorsal hump | big | arched (v-shaped), light | chubby/full | small | narrow, slanted down |
+michael_bloomberg || forehead | nose | lips | ears | chin | eyes | eyebrows | cheeks | hair || big, wrinkled | thin, well-defined tip | thin | big, pointy | weak jawline | deep-set | thin | thin/hollow | receding hairline |
+michael_jackson || nose | chin | hair | eyes | eyelids | head | eyebrows | cheekbones | mouth || pointy, upturned, thin | cleft, square | curly, black, long | wide-set, wide | receded | square | long | high | big/wide |
+michelle_obama || cheekbones | nose | eyebrows | mouth | teeth | cheeks | eyes | eyelids | skin || high | v-shaped | arched (v-shaped) | big/wide | crooked, overbite, white, big | chubby/full | narrow-set, long eyelashes, wide | drooping | smooth |
+michelle_rodriguez || lips | nose | chin | cheekbones | eyes | cheeks | teeth | forehead || thin upper | v-shaped, well-defined tip | pointed, strong jawline | high | narrow, deep-set | chubby/full | white, big | big |
+mike_pence || eyes | hair | lips | ears | nose | chin | eyebrows | forehead || deep-set, slanted down, narrow, crows feet | white | thin | big, stick out | pointy, small nostrils, thin | weak jawline | short, light | wrinkled |
+mila_kunis || eyes | nose | head | lips | eyebrows | cheekbones | hair || wide-x, almond, wide | button, short | square | medial cleft | long | high | black, long |
+miley_cyrus || cheekbones | chin | nose | eyes | teeth | mouth | lips || high | pointed | button | wide, slanted up, narrow-set, long eyelashes | big | small | thick lower |
+mitch_mcconnell || chin | lips | ears | eyebrows | eyes | eyelids | teeth | nose | cheeks | hair || weak jawline, double chin, rounded | thin | big | short, light | deep-set, glasses, light-colored, slanted down | puffy | small | rounded tip | chubby/full | receding hairline |
+morgan_freeman || nose | hair | facial hair | skin | eyebrows | mouth | ears | eyes | eyelids | forehead || wide, flat, wide nostrils | white | goatee | freckles | bushy | big/wide | pierced | bags under eyes, slanted down, wide-x | puffy | wrinkled |
+nancy_pelosi || nose | eyes | head | eyebrows | cheekbones | lips | ears | hair || pointy, upturned | deep-set, wide, long eyelashes, stick out | small | arched (v-shaped) | high | downturned | low | short |
+narendra_modi || facial hair | hair | cheeks | nose | eyes | eyebrows | ears | lips || mustache, beard | white, receding hairline | chubby/full | wide, wide nostrils, upturned, bulbous | deep-set, glasses, narrow | bushy | stick out, big, low, pointy | pouty/full |
+natalie_dormer || lips | nose | eyes | cheekbones | chin | cheeks | mouth | ears || upturned, thin upper, medial cleft | wide nostrils, upturned | wide, wide-set, slanted up | high | pointed, strong jawline | chubby/full | crooked | pierced |
+neil_patrick_harris || forehead | lips | ears | eyes | cheekbones || big, wrinkled | thin | low, stick out | wide-set, deep-set | high |
+neymar || ears | hair | forehead | nose | lips | facial hair | neck || small, stick out, pierced | curly | wide | rounded tip, upturned | pouty/full | beard, mustache, trimmed | tattoos |
+nick_offerman || facial hair | chin | ears | eyes | eyelids || mustache, thick | weak jawline, double chin, cleft | big, flat | deep-set, narrow-set, light-colored, bags under eyes | receded |
+nicki_minaj || nose | eyes | eyebrows | cheekbones | cheeks | lips | skin || wide, pointy | wide, long eyelashes, slanted up | arched (v-shaped) | high | dimples | pouty/full | smooth |
+nicole_kidman || eyes | skin | forehead | chin | nose | cheekbones | eyebrows | lips || light-colored, deep-set, narrow-set | pale | wide | pointed | upturned, well-defined tip | high | arched (v-shaped) | thick lower |
+norah_jones || nose | chin | cheekbones | cheeks | lips || v-shaped | pointed | high | chubby/full | thick lower |
+oprah || head | nose | mouth | cheeks | lips | eyes | hair | chin || big | wide nostrils, short | big/wide | chubby/full | pouty/full | wide-x, wide-set | curly | rounded |
+ozzy_osbourne || lips | head | mouth | chin | nose | eyes | hair | skin || thin, large | square | big/wide | strong jawline | short | small | long | rough |
+paris_hilton || nose | eyes | head | chin | hair | lips || hooked, thin | wide, almond | small | strong jawline | blond | thick lower |
+pat_morita || skin | eyelids | eyes | hair | eyebrows | facial hair | ears | nose | cheeks | mouth || rough | puffy | narrow, bags under eyes | receding hairline | short | mustache, goatee | big | thin bridge, wide tip, wide nostrils | thin/hollow | small |
+patrick_stewart || hair | lips | eyes | ears | eyelids | nose | cheekbones || bald | thin | narrow, slanted up, bags under eyes | big, stick out | hooded | wide, long, crooked | sharp |
+pele || ears | nose | cheekbones | eyelids | chin | eyes || stick out, small | hooked, wide nostrils | high | puffy | weak jawline | narrow |
+penelope_cruz || nose | cheekbones | eyes | head | mouth | lips || rounded tip, small nostrils, upturned | high | wide, almond, long eyelashes, narrow-set | small | big/wide | pouty/full, downturned |
+peter_dinklage || facial hair | hair | eyebrows | eyes | nose | lips | head | cheekbones | chin || goatee | curly, bangs | bushy | slanted down, deep-set, wide-set, light-colored | rounded tip, upturned | thin | big | high | strong jawline |
+prince || hair | facial hair | eyes | cheeks | lips | cheekbones | chin | eyebrows || curly | mustache, thin, soul patch | wide, almond | thin/hollow | pouty/full | high | strong jawline | arched (v-shaped) |
+prince_charles || nose | eyes | ears | lips | skin | hair | eyelids | eyebrows | chin || crooked, dorsal hump, hooked | deep-set, narrow-set, light-colored, bags under eyes | big, stick out | thin | mole | receding hairline | puffy | light | weak jawline |
+priyanka_chopra || lips | cheeks | nose | eyebrows | head | eyes | neck | mouth | forehead || pouty/full | chubby/full | button, upturned | arched (v-shaped) | round | slanted up | lines | crooked | small, narrow |
+psy || eyelids | mouth | cheeks | cheekbones | nose | eyebrows | eyes | chin | head | lips || hooded | small | chubby/full | high | wide nostrils, pointy | light | wide-set | weak jawline | round | downturned |
+queen_latifah || cheekbones | cheeks | nose | eyes | mouth | eyebrows | chin | head | forehead || sharp | chubby/full | wide nostrils | narrow | big/wide | long | double chin | big | scar |
+rainn_wilson || chin | eyes | forehead | nose | eyes | lips | hair | cheeks | facial hair || weak jawline, double chin, square, forward | small, glasses | big, wide | upturned, rounded tip | deep-set, small | thin upper | bangs | chubby/full | sideburns |
+rashida_jones || mouth | chin | forehead | cheekbones | lips | eyes | nose | hair || big/wide | pointed, forward | big | high | thin upper | wide-set, light-colored | rounded tip, long, crooked | bangs |
+renee_zellweger || forehead | lips | cheekbones | cheeks | eyes | eyelids | eyebrows || big | pouty/full | high | chubby/full | narrow, narrow-set, light-colored | hooded | light |
+richard_nixon || eyes | eyebrows | nose | cheeks | forehead | ears | hair | facial hair | chin || deep-set, bags under eyes, slanted down, crows feet | bushy | wide, cleft, crooked, rounded tip | chubby/full | wrinkled, big | stick out | receding hairline, slicked back | stubble | weak jawline |
+rihanna || forehead | nose | cheekbones | eyes | cheeks | lips | chin | skin || big | wide nostrils, upturned | high | long eyelashes, slanted up, wide, light-colored | chubby/full | pouty/full, medial cleft | pointed | smooth |
+robert_downey_jr. || forehead | facial hair | chin | eyes | lips | cheekbones | nose || big, wide | goatee, soul patch | forward | long eyelashes, narrow-set, bags under eyes | thin upper | high | well-defined tip, cleft |
+ronald_reagan || ears | eyes | mouth | cheekbones | chin | nose | eyebrows | eyelids | lips || big | narrow, deep-set | crooked | high | weak jawline | crooked, rounded tip | bushy | puffy | thin |
+rosario_dawson || eyes | nose | mouth | chin | eyelids | lips | forehead | teeth || wide-set, wide, wide-x | wide, wide nostrils | big/wide | strong jawline | puffy | pouty/full | wide | straight, white |
+ru_paul || cheekbones | chin | eyes | nose | lips | mouth | eyebrows | hair || high | pointed, strong jawline | narrow-set, wide | thin bridge, pointy, wide nostrils, upturned, short | pouty/full | big/wide | thin, arched (v-shaped) | big |
+ryan_reynolds || chin | forehead | eyes | nose | facial hair | eyebrows | ears | head || square | big, wide | deep-set, slanted down, narrow, narrow-set | well-defined tip, crooked | stubble | bushy | stick out | long |
+salma_hayek || nose | eyes | chin | cheekbones | mouth | lips | cheeks | eyebrows || upturned, pointy | wide, slanted up, long eyelashes | forward, strong jawline | high | small | thick lower | chubby/full | arched (v-shaped) |
+salman_rushdie || facial hair | eyes | cheeks | nose | hair | ears | chin | lips | eyebrows | head || goatee | glasses, bags under eyes, narrow | chubby/full | wide, hooked, wide nostrils | receding hairline | big | weak jawline | thin | short | big, round |
+samuel_l_jackson || nose | hair | mouth | eyes | eyebrows | lips | teeth | head || flat, wide nostrils, wide | bald | big/wide | stick out, wide-set | short | pouty/full, medial cleft | gap | big |
+sandra_bullock || nose | chin | cheekbones | eyes | mouth || upturned, cleft, well-defined tip | cleft, strong jawline | high | long eyelashes, wide-set | big/wide |
+sandra_oh || forehead | eyelids | ears | hair | nose | eyes | lips | mouth | eyebrows | cheeks | head || small | hooded | stick out | curly | wide, wide nostrils, v-shaped, long | slanted up | pouty/full | small | curved down | chubby/full | long |
+sarah_jessica_parker || nose | eyes | head | cheekbones | chin || hooked, wide, dorsal hump, long | narrow, light-colored, narrow-set, wide-x, deep-set, long eyelashes | long | sharp | square, forward |
+sarah_palin || cheekbones | cheeks | nose | eyebrows | eyes | chin | hair || high | chubby/full | pointy, cleft | arched (v-shaped) | glasses | forward | bangs |
+scarlett_johansson || nose | chin | eyes | lips | eyebrows | cheekbones | cheeks | forehead | skin || rounded tip, upturned | forward | wide, light-colored, slanted up | pouty/full | long | high | chubby/full | wide | smooth |
+seann_william_scott || chin | ears | eyes | mouth | facial hair | eyebrows | lips || strong jawline, square, cleft | stick out, pointy | narrow, deep-set, slanted up, bags under eyes | big/wide | stubble | bushy | thin upper |
+selena || mouth | lips | nose | cheeks | eyes || big/wide | pouty/full | wide tip, v-shaped | chubby/full | narrow |
+selena_gomez || nose | cheeks | head | forehead | mouth | lips | eyes | chin || wide bridge, upturned, button | chubby/full | small | small | big/wide | pouty/full | slanted up, long eyelashes | pointed |
+shahrukh_khan || nose | eyes | ears | chin | eyelids | cheeks | eyebrows || wide, hooked, wide nostrils, dorsal hump | deep-set, narrow-set, narrow, slanted down | stick out | square | puffy | dimples, chubby/full | arched (v-shaped) |
+shakira || chin | eyebrows | eyes | nose | cheeks | mouth | hair | head || pointed | arched (v-shaped) | wide, wide-set | rounded tip | chubby/full | big/wide | blond, big, curly | small |
+sharon_osbourne || hair | head | nose | eyes | cheekbones | mouth | lips || short, red | square | v-shaped | deep-set, light-colored | high | big/wide | thick lower |
+shigeru_miyamoto || teeth | eyelids | eyebrows | chin | eyes | nose | mouth || big, overbite | hooded | bushy, arched (v-shaped) | weak jawline | narrow, narrow-set, bags under eyes | wide, wide nostrils, thin bridge | big/wide |
+snoop_dogg || facial hair | nose | cheeks | forehead | eyelids | eyes | cheekbones | lips || goatee | wide nostrils, upturned, pointy | thin/hollow | big | puffy | wide-set, narrow, wide-x, stick out | high | medial cleft |
+sofia_vergara || chin | mouth | nose | eyebrows | lips | cheekbones | eyes | skin || pointed | big/wide | upturned, small nostrils | thick, long | pouty/full | high | almond, long eyelashes, light-colored | smooth |
+sophie_turner || forehead | nose | skin | chin | eyes | cheekbones | cheeks || wide | pointy, cleft | pale, mole, smooth | square, forward, strong jawline | almond, light-colored, long eyelashes | high | chubby/full |
+stan_lee || forehead | facial hair | eyes | lips | hair | eyelids | nose | cheeks | chin || big, wrinkled, wide | mustache | narrow, glasses | thin | receding hairline | puffy | bulbous | chubby/full | square, forward |
+steve_buscemi || forehead | eyes | eyelids | lips | chin | hair | mouth | teeth | cheekbones || big, wrinkled | wide, stick out, narrow-set, deep-set, light-colored | puffy | pouty/full, downturned | weak jawline, square | receding hairline | big/wide | crooked | high |
+steve_carell || nose | ears | eyebrows | lips | eyes | facial hair || well-defined tip, long | stick out, small | bushy, flat, slanted down | upturned, thin | deep-set, slanted down | beard, mustache, stubble |
+steven_tyler || mouth | eyes | cheeks | hair | lips | eyebrows | cheekbones | nose | ears || big/wide | deep-set, narrow-set, small | thin/hollow | long, curly, white streaks | pouty/full | long | high | thin, upturned | pierced |
+steven_yeun || nose | facial hair | cheekbones | cheeks | eyes || thin bridge, thin | goatee | sharp | dimples | wide-x, narrow |
+taylor_swift || eyes | chin | cheekbones | nose | lips | teeth | skin || wide, light-colored, almond, long eyelashes | pointed, cleft | high | wide bridge, upturned, small nostrils | medial cleft, thick lower | big, white | smooth |
+ted_cruz || nose | eyes | mouth | lips | ears | eyelids | chin | eyebrows | cheeks || hooked, crooked, rounded tip | slanted down, deep-set, bags under eyes | small | thin | stick out | hooded, drooping | rounded, weak jawline | bushy, short | chubby/full |
+terry_crews || facial hair | hair | eyes | nose | forehead | eyebrows | ears | chin | cheeks | teeth || goatee | bald | slanted down, deep-set, crows feet | wide nostrils, v-shaped | wrinkled | furrowed | small | square | chubby/full | white, straight |
+tilda_swinton || nose | eyes | cheekbones | ears | skin | chin | hair | forehead | eyebrows | cheeks || pointy, cleft | wide, wide-set, light-colored | high | stick out | smooth, pale | forward | short | big | light | thin/hollow |
+tina_fey || cheekbones | nose | eyes | lips | teeth | chin | forehead | eyebrows || sharp, high | pointy | wide, almond | thin upper | straight | strong jawline, forward, scar | wide | long |
+tina_turner || hair | chin | teeth | lips | cheekbones | nose || big, bangs | pointed, forward | white | thick lower | high | v-shaped, wide nostrils |
+tom_cruise || eyes | lips | chin | nose | eyelids | eyebrows | teeth | cheekbones | facial hair || narrow, slanted down, deep-set, crows feet, narrow-set, light-colored | thin | rounded, forward | well-defined tip, upturned, crooked | hooded | bushy, flat | big, straight | high | stubble |
+tom_hiddleston || nose | eyes | forehead | lips | eyebrows | chin | facial hair | ears || pointy, cleft, crooked, dorsal hump | deep-set, light-colored, slanted down, narrow-set | big | thin | bushy | rounded | goatee | stick out |
+tom_holland || nose | ears | mouth | eyes | chin | lips | eyelids | skin | cheeks || rounded tip, dorsal hump | stick out | small | slanted down, deep-set, bags under eyes | cleft, strong jawline | thin | receded | smooth | chubby/full |
+tracy_morgan || nose | mouth | lips | cheeks | eyelids | forehead | eyebrows | ears | chin || wide, flat, wide nostrils, short | big/wide | thin upper, thick lower | chubby/full | puffy | narrow | bushy | small, high, flat | double chin |
+vin_diesel || hair | nose | eyes | ears | neck | head || bald | bulbous, flared nostrils | narrow, slanted down | stick out | thick | long |
+vladimir_putin || hair | eyes | lips | nose | neck | cheeks | ears | forehead | cheekbones || receding hairline | deep-set, narrow-set, slanted up, light-colored, bags under eyes | thin upper | long, v-shaped | thick | chubby/full | pointy, high | wide, wrinkled | high |
+wesley_snipes || nose | eyes | lips | ears | teeth | eyelids | mouth | cheekbones | chin | forehead || wide, wide nostrils | wide, stick out | pouty/full | stick out, pointy | gap, straight, white | drooping | big/wide | high, sharp | forward | wrinkled |
+whitney_houston || hair | nose | chin | mouth | cheekbones | cheeks | teeth || curly, bangs | wide nostrils, upturned | cleft, forward | big/wide | high | chubby/full | white |
+whoopi_goldberg || cheekbones | cheeks | mouth | eyebrows | nose | eyes | eyelids | hair | forehead | lips || sharp | chubby/full | big/wide | light | wide nostrils, rounded tip | glasses, slanted up, bags under eyes | puffy | dreads | wrinkled, big | large |
+will_smith || forehead | ears | nose | facial hair | eyes | cheeks | eyebrows | eyelids || big | big, stick out, pointy | wide, wide nostrils, flat | goatee | wide-set, bags under eyes | chubby/full | short | puffy |
+willem_dafoe || nose | eyes | cheekbones | mouth | teeth | chin | eyelids | eyebrows | cheeks | forehead || hooked, wide nostrils, crooked | deep-set, light-colored, bags under eyes | sharp, high | big/wide | gap, crooked | square, forward | puffy | furrowed | thin/hollow | wide |
+william_shatner || eyes | cheeks | eyelids | chin || slanted down, deep-set, bags under eyes, wide-x | chubby/full | hooded | weak jawline |
+woody_allen || forehead | nose | ears | lips | eyes | eyelids | hair | chin || wide | bulbous, hooked, dorsal hump | big, stick out | thin upper | glasses, narrow | drooping | receding hairline | weak jawline |
+xi_jinping || forehead | nose | eyes | chin | lips | hair | eyebrows | eyelids | cheeks || small | wide, wide nostrils | narrow, slanted down, narrow-set | double chin | pouty/full | widows peak | light, short | hooded | chubby/full |
+yao_ming || eyes | ears | nose | eyebrows | teeth | chin | lips | cheekbones | forehead || deep-set, narrow-set | stick out | wide nostrils, upturned | bushy | small | square, forward | downturned | high | small |
+yo-yo_ma || head | cheeks | eyes | eyelids | nose | lips | eyebrows | hair | chin || round | chubby/full | bags under eyes, small, narrow, glasses | puffy | wide, wide nostrils, short | medial cleft | bushy, flat | receding hairline | weak jawline |
+zoe_saldana || chin | eyes | nose | mouth | cheekbones | eyebrows | skin | forehead || forward | wide, slanted up, wide-set | pointy, wide nostrils | big/wide | high | arched (v-shaped) | smooth | big |
